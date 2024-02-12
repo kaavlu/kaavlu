@@ -17,7 +17,7 @@
 <br>
 - I am a software analyst for Atlas Digital - Tech Consulting
 <br>
-- Currently researching robotic localizatoin at ROAHM
+- Currently researching robotic localization at ROAHM
 <br>
 - Personal website: (https://manavk.net/)
 <br>
